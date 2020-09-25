@@ -1,0 +1,22 @@
+<svg id="credit-card" xmlns="http://www.w3.org/2000/svg" width="24" height="18.604" viewBox="0 0 24 18.604">
+  <g id="Group_106" data-name="Group 106">
+    <g id="Group_105" data-name="Group 105">
+      <path id="Path_2764" data-name="Path 2764" d="M21.5,4H2.5A2.73,2.73,0,0,0,0,6.907V19.7A2.73,2.73,0,0,0,2.5,22.6h19A2.73,2.73,0,0,0,24,19.7V6.907A2.73,2.73,0,0,0,21.5,4ZM23,19.7a1.638,1.638,0,0,1-1.5,1.744H2.5A1.638,1.638,0,0,1,1,19.7V6.907A1.638,1.638,0,0,1,2.5,5.163h19A1.638,1.638,0,0,1,23,6.907V19.7Z" transform="translate(0 -4)" fill="#306ee7"/>
+    </g>
+  </g>
+  <g id="Group_108" data-name="Group 108" transform="translate(0 4)">
+    <g id="Group_107" data-name="Group 107">
+      <path id="Path_2765" data-name="Path 2765" d="M23.5,7H.5a.5.5,0,0,0-.5.5v3a.5.5,0,0,0,.5.5h23a.5.5,0,0,0,.5-.5v-3A.5.5,0,0,0,23.5,7ZM23,10H1V8H23v2Z" transform="translate(0 -7)" fill="#306ee7"/>
+    </g>
+  </g>
+  <g id="Group_110" data-name="Group 110" transform="translate(3 12)">
+    <g id="Group_109" data-name="Group 109">
+      <path id="Path_2766" data-name="Path 2766" d="M9.5,14h-6a.5.5,0,1,0,0,1h6a.5.5,0,1,0,0-1Z" transform="translate(-3 -14)" fill="#306ee7"/>
+    </g>
+  </g>
+  <g id="Group_112" data-name="Group 112" transform="translate(3 14)">
+    <g id="Group_111" data-name="Group 111">
+      <path id="Path_2767" data-name="Path 2767" d="M9.5,16h-6a.5.5,0,1,0,0,1h6a.5.5,0,0,0,0-1Z" transform="translate(-3 -16)" fill="#306ee7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139" height="40" viewBox="0 0 139 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_508" data-name="Rectangle 508" width="40" height="40" transform="translate(139 25)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="logo" transform="translate(-139 -21)">
+    <text id="WarungKita" transform="translate(184 47)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">WarungKita</tspan></text>
+    <g id="Mask_Group_393" data-name="Mask Group 393" transform="translate(0 -4)" clip-path="url(#clip-path)">
+      <g id="K_Logo" data-name="K Logo" transform="translate(139 32.224)">
+        <path id="Path_2778" data-name="Path 2778" d="M17.345,15.614l-.31.931-3.483,10.31L8.6,10.579H4.69l8.448,25.414,5.569-14.552.207-.517Zm10.914-4.759L23.793,26.407,18.362,10.579H15l2.034,5.966,1.672,4.9L23.69,35.959l4.569-14.017,3.431-10.5v-.862Z" transform="translate(-4.69 -10.441)" fill="#feb22b"/>
+        <path id="Path_2779" data-name="Path 2779" d="M30.924,21.141l8.741-10.672H35.3l-7.931,9.845-.483.759.086-1.207V10.607l-3.431.276V34.917h3.431V25.279l1.483-1.655,7.224,11.293h4.293Z" transform="translate(0.024 -10.469)" fill="#feb22b"/>
+      </g>
+    </g>
+  </g>
+</svg>

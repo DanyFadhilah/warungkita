@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_488" data-name="Rectangle 488" width="20" height="20" fill="#8f0b0b"/>
+    </clipPath>
+  </defs>
+  <g id="Notif" transform="translate(0 2)">
+    <g id="Mask_Group_379" data-name="Mask Group 379" transform="translate(0 4)" clip-path="url(#clip-path)">
+      <g id="notification" transform="translate(1.667)">
+        <g id="Group_48" data-name="Group 48">
+          <g id="Group_47" data-name="Group 47">
+            <path id="Path_2720" data-name="Path 2720" d="M18.607,16.869l-1.431-2.385a7.085,7.085,0,0,1-1.01-3.645V8.75A5.841,5.841,0,0,0,12,3.163v-1.5a1.667,1.667,0,0,0-3.333,0v1.5A5.841,5.841,0,0,0,4.5,8.75v2.089a7.089,7.089,0,0,1-1.009,3.644L2.06,16.868a.417.417,0,0,0,.357.632H18.25a.417.417,0,0,0,.358-.631Z" transform="translate(-2)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_50" data-name="Group 50" transform="translate(5.709 18.333)">
+          <g id="Group_49" data-name="Group 49">
+            <path id="Path_2721" data-name="Path 2721" d="M8.851,22A2.9,2.9,0,0,0,14.1,22Z" transform="translate(-8.851 -22)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_80" data-name="Group 80" transform="translate(10 -2)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="8" cy="8" r="8" fill="#feb22b"/>
+      <text id="_1" data-name="1" transform="translate(6 12)" fill="#fff" font-size="10" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="444" height="380" viewBox="0 0 444 380">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_586" data-name="Rectangle 586" width="32" height="32" transform="translate(737 -409.833)" fill="#123e94"/>
+    </clipPath>
+  </defs>
+  <g id="Group_190" data-name="Group 190" transform="translate(-123 -899)">
+    <path id="Path_2782" data-name="Path 2782" d="M207.541,1259.321s271.108-52.35,339.16-340.76" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="10"/>
+    <path id="Rectangle_583" data-name="Rectangle 583" d="M25,0h75a0,0,0,0,1,0,0V50a0,0,0,0,1,0,0H25A25,25,0,0,1,0,25v0A25,25,0,0,1,25,0Z" transform="translate(467 899)" fill="#306ee7"/>
+    <path id="Rectangle_584" data-name="Rectangle 584" d="M0,0H75a25,25,0,0,1,25,25v0A25,25,0,0,1,75,50H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(123 1229)" fill="#feb22b"/>
+    <text id="Beli" transform="translate(501 930.5)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Beli</tspan></text>
+    <text id="Jual" transform="translate(153.5 1260.5)" fill="#fff" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Jual</tspan></text>
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="29" cy="29" r="29" transform="translate(377 1123)" fill="#fff"/>
+    <g id="Mask_Group_397" data-name="Mask Group 397" transform="translate(-347 1545.833)" clip-path="url(#clip-path)">
+      <g id="K_Logo" data-name="K Logo" transform="translate(737 -404.191)">
+        <path id="Path_2803" data-name="Path 2803" d="M14.72,14.3l-.25.749-2.8,8.291L7.69,10.249H4.543l6.794,20.437,4.478-11.7.166-.416ZM23.5,10.471,19.906,22.977,15.538,10.249h-2.7l1.636,4.8,1.345,3.938,4.007,11.674L23.5,19.386l2.759-8.444v-.693Z" transform="translate(-4.543 -10.138)" fill="#306ee7"/>
+        <path id="Path_2804" data-name="Path 2804" d="M28.743,18.724l7.03-8.583H32.265l-6.378,7.917-.388.61.069-.971V10.253l-2.759.222V29.8h2.759V22.052l1.192-1.331L32.57,29.8h3.452Z" transform="translate(-3.855 -10.142)" fill="#feb22b"/>
+      </g>
+    </g>
+  </g>
+</svg>

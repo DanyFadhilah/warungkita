@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <g id="Cari_Produk" data-name="Cari Produk" transform="translate(-678 -1058)">
+    <circle id="_1" data-name="1" cx="38" cy="38" r="38" transform="translate(678 1058)" fill="#3067d2"/>
+    <path id="_3" data-name="3" d="M38,0c20.987,0,20.987,76,0,76A38,38,0,0,1,38,0Z" transform="translate(678 1058)" fill="#306ee7"/>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(704 1081.5)">
+      <g id="Group_163" data-name="Group 163" transform="translate(-704 -1081.5)">
+        <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(704 1081.5)" fill="none" stroke="#fff" stroke-width="1">
+          <circle cx="12" cy="12" r="12" stroke="none"/>
+          <circle cx="12" cy="12" r="11.5" fill="none"/>
+        </g>
+        <path id="Path_2802" data-name="Path 2802" d="M0,0,6.788,7.538" transform="translate(723.349 1103.075)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      </g>
+      <g id="Group_162" data-name="Group 162" transform="translate(-704 -1081.5)">
+        <g id="Rectangle_585" data-name="Rectangle 585" transform="translate(711 1087.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1">
+          <rect width="10" height="12" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="9" height="11" rx="3.5" fill="none"/>
+        </g>
+        <line id="Line_21" data-name="Line 21" x2="3" transform="translate(714.5 1092)" fill="none" stroke="#fff" stroke-width="1"/>
+        <line id="Line_22" data-name="Line 22" x2="3" transform="translate(714.5 1095)" fill="none" stroke="#fff" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
